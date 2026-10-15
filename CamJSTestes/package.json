@@ -1,0 +1,18 @@
+{
+  "name": "camjstestes",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "CamJS.js",
+  "scripts": {
+    "test": "vitest --environment=jsdom"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.9",
+    "jsdom": "^29.1.1",
+    "vitest": "^4.1.9"
+  }
+}
